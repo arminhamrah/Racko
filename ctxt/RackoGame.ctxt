@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RackoGame
+comment1.params=
+comment1.target=RackoGame()
+comment2.params=newCardValue\ handIndex\ hand
+comment2.target=void\ makeMove(int,\ int,\ int[])
+comment3.params=
+comment3.target=boolean\ playerWins()
+comment4.params=
+comment4.target=boolean\ computerWins()
+comment5.params=
+comment5.target=int\ removeTopCardFromDeck()
+comment6.params=
+comment6.target=int\ removeTopCardFromDiscardPile()
+comment7.params=
+comment7.target=int\ peekAtTopCardFromDiscardPile()
+comment8.params=
+comment8.target=int[]\ getPlayerHand()
+comment9.params=
+comment9.target=int[]\ getComputerHand()
+numComments=10
